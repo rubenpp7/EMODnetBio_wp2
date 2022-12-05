@@ -1,0 +1,313 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:dc="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:md="http://www.pangaea.de/MetaData" xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd" system="http://www.pangaea.de" scope="system" xml:lang="eng" packageId="https://doi.org/10.1594/PANGAEA.717138">
+  <dataset>
+    <alternateIdentifier>https://doi.org/10.1594/PANGAEA.717138</alternateIdentifier>
+    <alternateIdentifier>dataset717138</alternateIdentifier>
+    <title xml:lang="eng">Benthos counted on dredged samples during Valdivia cruise VA53</title>
+    <creator>
+      <individualName>
+        <givenName>Karin</givenName>
+        <surName>Frauenheim</surName>
+      </individualName>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>V</givenName>
+        <surName>Neumann</surName>
+      </individualName>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Hjalmar</givenName>
+        <surName>Thiel</surName>
+      </individualName>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Michael</givenName>
+        <surName>T&#252;rkay</surName>
+      </individualName>
+    </creator>
+    <metadataProvider>
+      <organizationName>PANGAEA - Data Publisher for Earth &amp; Environmental Science</organizationName>
+      <electronicMailAddress>info@pangaea.de</electronicMailAddress>
+      <onlineUrl>https://www.pangaea.de</onlineUrl>
+    </metadataProvider>
+    <pubDate>2009</pubDate>
+    <language>eng</language>
+    <abstract>
+      <para/>
+    </abstract>
+    <intellectualRights>
+      <para>
+					This work is licensed under a 
+						<ulink url="https://creativecommons.org/licenses/by/3.0/"><citetitle>Creative Commons Attribution 3.0 Unported</citetitle></ulink></para>
+    </intellectualRights>
+    <distribution>
+      <online>
+        <url function="metadata">https://doi.org/10.1594/PANGAEA.717138</url>
+      </online>
+    </distribution>
+    <coverage>
+      <geographicCoverage>
+        <geographicDescription>Event: VA53_1-1, 
+North Sea
+;	Event: VA53_2-1, 
+North Sea
+;	Event: VA53_3-1, 
+North Sea
+;	Event: VA53_4-1, 
+North Sea
+;	Event: VA53_5-1, 
+North Sea
+;	Event: VA53_6-1, 
+North Sea
+;	Event: VA53_8-1, 
+North Atlantic Ocean
+;	Event: VA53_9-1, 
+North Atlantic Ocean
+;	Event: VA53_16-1, 
+North Atlantic Ocean
+;	Event: VA53_17-1, 
+North Atlantic Ocean
+;	Event: VA53_21-1, 
+North Sea
+;	Event: VA53_23-1, 
+North Sea
+;	Event: VA53_24-1, 
+North Sea
+;	Event: VA53_25-1, 
+North Sea
+;	Event: VA53_26-1, 
+North Sea
+;	Event: VA53_27-1, 
+North Sea
+;	Event: VA53_28-1, 
+North Sea
+;	Event: VA53_29-1, 
+North Sea
+;	Event: VA53_30-1, 
+North Sea
+;	Event: VA53_31-1, 
+North Sea
+;	Event: VA53_32-1, 
+North Sea
+;	Event: VA53_33-1, 
+North Sea
+;	Event: VA53_34-1, 
+North Sea
+;	Event: VA53_35-1, 
+North Sea
+;	Event: VA53_36-1, 
+North Sea
+;	Event: VA53_37-1, 
+North Sea
+;	Event: VA53_39-1, 
+North Sea
+;	Event: VA53_40-1, 
+North Sea
+;	Event: VA53_42-1, 
+North Sea
+;	Event: VA53_43-1, 
+North Sea
+;	Event: VA53_45-1, 
+North Sea
+;	Event: VA53_46-1, 
+North Sea
+;	Event: VA53_47-1, 
+North Sea
+;	Event: VA53_48-1, 
+North Sea
+;	Event: VA53_49-1, 
+North Sea
+;	Event: VA53_50-1, 
+North Sea
+;	Event: VA53_51-1, 
+North Sea
+;	Event: VA53_52-1, 
+North Sea
+;	Event: VA53_55-1, 
+North Sea
+;	Event: VA53_56-1, 
+North Sea
+;	Event: VA53_57-1, 
+North Sea
+;	Event: VA53_58-1, 
+North Sea
+;	Event: VA53_59-1, 
+North Sea
+;	Event: VA53_60-1, 
+North Sea
+;	Event: VA53_62-1, 
+North Sea
+;	Event: VA53_63-1, 
+North Sea
+;	Event: VA53_64-1, 
+North Sea
+;	Event: VA53_65-1, 
+North Sea
+;	Event: VA53_66-1, 
+North Sea
+;	Event: VA53_67-1, 
+North Sea
+;	Event: VA53_68-1, 
+North Sea
+;	Event: VA53_69-1, 
+North Sea
+;	Event: VA53_70-1, 
+North Sea
+;	Event: VA53_71-1, 
+North Sea
+;	Event: VA53_72-1, 
+North Sea
+;	Event: VA53_73-1, 
+North Sea
+;	Event: VA53_74-1, 
+North Sea
+;	Event: VA53_75-1, 
+North Sea
+;	Event: VA53_76-1, 
+North Sea
+;	Event: VA53_77-1, 
+North Sea
+;	Event: VA53_78-1, 
+North Sea
+;	Event: VA53_79-1, 
+North Sea
+;	Event: VA53_80-1, 
+North Sea
+;	Event: VA53_81-1, 
+North Sea
+;	Event: VA53_82-1, 
+North Sea
+;	Event: VA53_83-1, 
+North Sea
+;	Event: VA53_84-1, 
+North Sea
+;	Event: VA53_85-1, 
+North Sea
+;	Event: VA53_86-1, 
+North Sea
+;	Event: VA53_87-1, 
+North Sea
+;	Event: VA53_88-1, 
+North Sea
+;	Event: VA53_89-1, 
+North Sea
+;	Event: VA53_90-1, 
+North Sea
+;	Event: VA53_91-1, 
+North Sea
+;	Event: VA53_92-1, 
+North Sea
+;	Event: VA53_93-1, 
+North Sea
+;	Event: VA53_94-1, 
+North Sea
+;	Event: VA53_95-1, 
+North Sea
+;	Event: VA53_96-1, 
+North Sea
+;	Event: VA53_97-1, 
+North Sea
+;	Event: VA53_98-1, 
+North Sea
+;	Event: VA53_99-1, 
+North Sea
+;	Event: VA53_102-1, 
+North Sea
+;	Event: VA53_103-1, 
+North Sea
+;	Event: VA53_104-1, 
+North Sea
+;	Event: VA53_105-1, 
+North Sea
+;	Event: VA53_107-1, 
+North Sea
+;	Event: VA53_108-1, 
+North Sea
+;	Event: VA53_109-1, 
+North Sea
+;	Event: VA53_110-1, 
+North Sea
+;	Event: VA53_111-1, 
+Skagerrak
+http://en.wikipedia.org/wiki/Skagerrak
+;	Event: VA53_112-1, 
+Skagerrak
+http://en.wikipedia.org/wiki/Skagerrak
+;	Event: VA53_113-1, 
+Skagerrak
+http://en.wikipedia.org/wiki/Skagerrak
+;	Event: VA53_114-1, 
+Skagerrak
+http://en.wikipedia.org/wiki/Skagerrak
+;	Event: VA53_115-1, 
+Skagerrak
+http://en.wikipedia.org/wiki/Skagerrak
+;	Event: VA53_116-1, 
+Skagerrak
+http://en.wikipedia.org/wiki/Skagerrak
+;	Event: VA53_120-1, 
+North Sea
+;	Event: VA53_122-1, 
+North Sea
+;	Event: VA53_123-1, 
+North Sea
+;	Event: VA53_124-1, 
+North Sea
+;	Event: VA53_126-1, 
+North Sea
+;	Event: VA53_127-1, 
+North Sea
+;	Event: VA53_128-1, 
+North Sea
+;	Event: VA53_129-1, 
+North Sea
+;	Event: VA53_130-1, 
+North Sea
+;	Event: VA53_133-1, 
+North Sea
+;	Event: VA53_134-1, 
+North Sea
+;	Event: VA53_137-1, 
+North Sea
+;	Event: VA53_138-1, 
+North Sea
+;	Event: VA53_140-1, 
+North Sea
+;	Event: VA53_145-1, 
+North Sea
+;	Event: VA53_146-1, 
+North Sea
+;	Event: VA53_147-1, 
+North Sea
+;	</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-4.415</westBoundingCoordinate>
+          <eastBoundingCoordinate>10.6617</eastBoundingCoordinate>
+          <northBoundingCoordinate>60.335</northBoundingCoordinate>
+          <southBoundingCoordinate>51.5783</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <taxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>kingdom</taxonRankName>
+          <taxonRankValue>Animalia</taxonRankValue>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+    </coverage>
+    <contact>
+      <organizationName>PANGAEA - Data Publisher for Earth &amp;  Environmental Science</organizationName>
+      <electronicMailAddress>info@pangaea.de</electronicMailAddress>
+      <onlineUrl>http://www.pangaea.de</onlineUrl>
+    </contact>
+    <project>
+      <title>Circulation and Transfer of Pollutants in the North Sea; 
+				</title>
+      <personnel>
+        <positionName>project member</positionName>
+        <role>unknown</role>
+      </personnel>
+    </project>
+  </dataset>
+</eml:eml>
